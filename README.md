@@ -9,11 +9,17 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=joeun-like&fontSize=90)
 
 👀 Skill <br />
+
+---
+
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=Css&logoColor=white"/> <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/> <img src="https://img.shields.io/badge/Html-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Html-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/> <img src="https://img.shields.io/badge/Html-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Html-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Html-09D3AC?style=flat-square&logo=CreateReactApp&logoColor=white"/> <img src="https://img.shields.io/badge/Html-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Html-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/><img src="https://img.shields.io/badge/Html-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/><img src="https://img.shields.io/badge/Html-F24E1E?style=flat-square&logo=Figma&logoColor=white"/><img src="https://img.shields.io/badge/Html-000000?style=flat-square&logo=Next.js&logoColor=white"/><img src="https://img.shields.io/badge/Html-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/><img src="https://img.shields.io/badge/Html-0170FE?style=flat-square&logo=AntDesign&logoColor=white"/><img src="https://img.shields.io/badge/Html-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 
 
 
 💪 Problem Soving <br />
+
+---
+
 ![jj2084jj's github stats](https://github-readme-stats.vercel.app/api?username=jj2084jj&show_icons=true)
 <!--
 **jj2084jj/jj2084jj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
