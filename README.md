@@ -1,4 +1,5 @@
-## 🕹Jo Dev 🧚‍♀️ ISFJ🕹
+# 🕹Jo Dev 🧚‍♀️ ISFJ🕹
+<br />
 
  I'm a frontend developer who likes fun and decorative UIs.
  I am very interested in beautiful design and CSS and web structure.
@@ -8,7 +9,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=joeun-like&fontSize=90)
 
-👀 Skill / Study <br />
+## 👀 Skill / Study <br />
 
 ---
 
@@ -16,10 +17,10 @@
 
 
 
+<br /><br />
 
 
-
-💪 Problem Soving <br />
+## 💪 Problem Soving <br />
 
 ---
 
