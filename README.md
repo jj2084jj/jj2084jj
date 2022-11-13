@@ -1,7 +1,13 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=Css&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/></a>
+##✨Jo_Dev 🧚‍♀️ ISFJ✨
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=joeun-like&fontSize=90)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjj2084jj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=git_Joeun&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40whdms3368&count_bg=%23FF7779&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=velog_joeun&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjikeun.tistory.com&count_bg=%2377BFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=tistory_joeun&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=Css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/>
+<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/>
+<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/>
 <!--
 **jj2084jj/jj2084jj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
