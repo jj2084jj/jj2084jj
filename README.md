@@ -17,7 +17,7 @@
 
  <div align=center>
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjj2084jj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=git_Joeun&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40whdms3368&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjikeun.tistory.com&count_bg=%2377BFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=tistory_joeun&edge_flat=false)](https://hits.seeyoufarm.com)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjj2084jj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=git_Joeun&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40whdms3368&count_bg=%2377C4FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=velog_joeun&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjikeun.tistory.com&count_bg=%2377BFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=tistory_joeun&edge_flat=false)](https://hits.seeyoufarm.com)
  
 </div>
 <br /><br />
