@@ -1,7 +1,14 @@
-<div style="text-align:center">
+<h3 align="center">📚 Jo Dev 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 
-# Jo Dev 🧚‍♀️
-<br />
 
 ## Introduction
 
@@ -36,7 +43,7 @@
 
 ![jj2084jj's github stats](https://github-readme-stats.vercel.app/api?username=jj2084jj&count_private=true&theme=dark&show_icons=true)
  
- </div> 
+</p>
 <!--
 **jj2084jj/jj2084jj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
