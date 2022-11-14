@@ -30,11 +30,11 @@
 
 <h3 align="center">Problem Soving</h3>
 
-<p align="center">
+
 ![jj2084jj's github stats](https://github-readme-stats.vercel.app/api?username=jj2084jj&count_private=true&theme=dark&show_icons=true)
-</p>
+
  
-</p>
+
 <!--
 **jj2084jj/jj2084jj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
