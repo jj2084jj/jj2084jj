@@ -1,4 +1,8 @@
-<h2 align="center">📚 Jo Dev 📚</h2>
+
+ 
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=joeun-dev&fontSize=90)
+
+<!-- <h2 align="center">📚 Jo Dev 📚</h2> -->
 
 <h3 align="center">Introduction</h3>
 
@@ -11,8 +15,6 @@
 
  
 
- 
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=joeun-like&fontSize=90) -->
 
 
 <h3 align="center">Skill / Study</h3>
