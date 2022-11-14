@@ -1,4 +1,4 @@
-<h3 align="center; font-size:20px">📚 Jo Dev 📚</h3>
+<h3 align="center;" style="font-size:30px">📚 Jo Dev 📚</h3>
 
 <h3 align="center; font-size:20px">Introduction</h3>
 
