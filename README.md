@@ -2,7 +2,7 @@
  
  <div align=center>
  
- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=joeun-dev&reversal=true&fontSize=90)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=joeun-dev&reversal=true&fontSize=40)
  
 </div>
 <!-- <h2 align="center">📚 Jo Dev 📚</h2> -->
@@ -14,7 +14,13 @@
  I am very interested in beautiful design and CSS and web structure.😇 <br /><br />
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjj2084jj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=git_Joeun&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40whdms3368&count_bg=%23FF7779&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=velog_joeun&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjikeun.tistory.com&count_bg=%2377BFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=tistory_joeun&edge_flat=false)](https://hits.seeyoufarm.com)
+ <div align=center>
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjj2084jj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=git_Joeun&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40whdms3368&count_bg=%23FF7779&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=velog_joeun&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjikeun.tistory.com&count_bg=%2377BFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=tistory_joeun&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+</div>
+
+
 
  
 
@@ -36,9 +42,12 @@
 <h3 align="center">Problem Soving</h3>
 
 
-![jj2084jj's github stats](https://github-readme-stats.vercel.app/api?username=jj2084jj&count_private=true&theme=dark&show_icons=true)
 
+  <div align=center>
  
+![jj2084jj's github stats](https://github-readme-stats.vercel.app/api?username=jj2084jj&count_private=true&theme=dark&show_icons=true)
+ 
+</div>
 
 <!--
 **jj2084jj/jj2084jj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
