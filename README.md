@@ -1,21 +1,23 @@
-<h3 align="center">📚 Jo Dev 📚</h3>
+<h2 align="center">📚 Jo Dev 📚</h2>
 
 <h3 align="center">Introduction</h3>
 
 <hr />
 <p align="center">
 
-
-
  I'm a frontend developer who likes fun and decorative UIs.  <br />
  I am very interested in beautiful design and CSS and web structure.😇 <br />
+ 
+ </p>
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjj2084jj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=git_Joeun&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40whdms3368&count_bg=%23FF7779&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=velog_joeun&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjikeun.tistory.com&count_bg=%2377BFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=tistory_joeun&edge_flat=false)](https://hits.seeyoufarm.com)
 
  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=joeun-like&fontSize=90)
 
-## Skill / Study <br />
+<h3 align="center">Skill / Study</h3>
+
+<p aliign="center">
 
 <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=Css&logoColor=white"/> <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/> <br />
 
@@ -24,19 +26,22 @@
 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/>  
 
+</p>
 
-### Design 
+
+<h3 align="center">Design</h3>
+<p align="center">
  <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=AntDesign&logoColor=white"/>
+</p>
 
 
 
-<br /><br />
+<h3 align="center">Problem Soving</h3>
 
-
-## Problem Soving <br />
-
-
+<p align="center">
 ![jj2084jj's github stats](https://github-readme-stats.vercel.app/api?username=jj2084jj&count_private=true&theme=dark&show_icons=true)
+ 
+</p>
  
 </p>
 <!--
