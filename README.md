@@ -44,7 +44,7 @@
 <h2 align="center"> 🚧 blog </h2>
 <div align="center">
 https://velog.io/@whdms3368 <br />
-https://jikeun.tistory.com https://dev.tingsearch.com/?token=eyJwaWQiOjEsImNpZCI6MX0=
+https://jikeun.tistory.com 
 </div>
 
 
